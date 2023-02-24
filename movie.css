@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    font-style: inherit;
+    color: aliceblue;
+}
+div{
+    width: 17%;
+    height: 569px;
+    background-color: black;
+    border: 4px rgb(249, 248, 249) solid;
+    float: left;
+    margin-left: 10px;
+    padding: 10px;
+
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+h5{
+    color: azure;
+    margin-left: 56px;
+}
+p{
+    margin-left: 10px;
+    color: aliceblue;
+    margin-top: 10px;
+    font-size: small;
+}
+h6{
+    color: aliceblue;
+    margin-left: 10px;
+}
+h4{
+    color: aliceblue;
+    margin-left: 4px;
+    margin-top: -1px;
+}
+.rating{
+    height: 15px;
+    width: 165px;
+    background-color: black;
+    border: 2px yellow solid;
+    margin-top: 4px;
+    margin-left: 10px;
+    
+}
+body{
+    background-color:rgb(19, 10, 10);
+}
